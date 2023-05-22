@@ -1,0 +1,20 @@
+.crd-bnr {
+    height: 350px;
+    &-body {
+        max-width: 500px;
+        h2,
+        p {
+            color: white;
+        }
+    }
+    &-two {
+        background-color: #f87217;
+        .card-body {
+            h5,
+            a,
+            p {
+                color: white;
+            }
+        }
+    }
+}
